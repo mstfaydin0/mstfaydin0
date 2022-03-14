@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <div align="center">
     <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-    Mustafa Muharrem Aydın | 💻 Java Developer | 🛸 İstanbul , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Mustafa Muharrem Aydın | 💻 Developer | 🛸 İstanbul , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </h3>
     <a href="https://github.com/mstfaydin0/">
     </a>
